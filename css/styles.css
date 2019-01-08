@@ -26,6 +26,6 @@ hr {
   font-size: 20px;
   color: orange;
 }
-@import 'components/03-section-4.less';
-@import 'components/04-section-5.less';
-@import 'components/05-section-6.less';
+.our-benenfits {
+  background-color: green;
+}
