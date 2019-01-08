@@ -10,7 +10,7 @@
 <link href="/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
 
 <script src="/js/font-awesome.min.js"></script>
-
+<link rel="stylesheet" type="text/css" href="../css/mmenu.css" />
 <!-- Global Styles from D4ALL CSS -->
 <link href="/css/styles.css" rel="stylesheet">
 

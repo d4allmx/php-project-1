@@ -20,6 +20,35 @@ hr {
   margin-top: 40px;
   margin-bottom: 40px;
 }
+#header #my-menu {
+  font-family: 'gotham', sans-serif;
+  font-weight: 300;
+}
+#header #menu-button {
+  background-color: #fff;
+  border: none;
+  height: 50px;
+  font-size: 20px;
+  margin-left: 20px;
+}
+#header .logo-wrapper {
+  width: 100%;
+  height: auto;
+  background-color: #df5b51;
+}
+#header .logo {
+  width: 200px;
+  height: auto;
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+@media (min-width: 768px) {
+  #header {
+    display: none;
+  }
+}
 #form .title h1 {
   font-size: 34px;
   text-align: center;
