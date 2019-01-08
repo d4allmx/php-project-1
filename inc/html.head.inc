@@ -4,13 +4,13 @@
 
 <meta name="description" content="">
 <meta name="author" content="">
-<link rel="icon" href="/favicon.png">
+<link rel="icon" href="favicon.png">
 
 <!-- Bootstrap core CSS -->
-<link href="/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
 
 <!-- Global Styles from D4ALL CSS -->
-<link href="/css/styles.css" rel="stylesheet">
+<link href="css/styles.css" rel="stylesheet">
 
 <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 <!--[if lt IE 9]>
