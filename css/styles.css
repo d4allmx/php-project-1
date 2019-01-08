@@ -219,6 +219,6 @@
     padding: 15% 8%;
   }
 }
-@import 'components/03-section-4.less';
-@import 'components/04-section-5.less';
-@import 'components/05-section-6.less';
+.our-benenfits {
+  background-color: green;
+}
