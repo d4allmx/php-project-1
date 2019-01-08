@@ -45,6 +45,10 @@ hr {
   margin: 50px;
   text-align: left;
 }
+.section-1 #line {
+  font-size: 40px;
+  color: #fb0404;
+}
 .section-1 h1 {
   margin-top: 100px;
   font-size: 50px;
@@ -57,19 +61,20 @@ hr {
   color: rgba(175, 175, 175, 0.6);
   font-size: 15px;
 }
-.section-1 #cta-1 {
+.section-1 .cta-1 {
   border-radius: 50px;
   background-color: #fb0404;
   padding: 25px;
-  margin: 100px;
+  margin: 100px 130px 100px 45px;
 }
 .section-1 a {
   text-decoration: none;
   color: #ffffff;
 }
-.section-1 #cta-1:hover {
+.section-1 .cta-1:hover {
   background-color: #ffffff;
+  transition: 0.3s ease-in-out;
 }
-.section-1 #cta-1:hover a {
+.section-1 .cta-1:hover a {
   color: #fb0404;
 }
