@@ -8,12 +8,8 @@
   <body>
     <?php include('inc/header.inc'); ?>
 
-    <div class="container">
-
-      <?php include('inc/contact-us/contact-us-form.inc'); ?>
-      <?php include('inc/contact-us/contact-us-map.inc'); ?>
-
-    </div> <!-- /container -->
+    <?php include('inc/contact-us/contact-us-form.inc'); ?>
+    <?php include('inc/contact-us/contact-us-map.inc'); ?>
 
     <?php include('inc/footer.inc'); ?>
   </body>

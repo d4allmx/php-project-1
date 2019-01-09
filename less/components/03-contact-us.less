@@ -1,16 +1,139 @@
-#form .title h1 {
+#form .title h1{
   font-size: 34px;
   text-align: center;
   padding: 95px 65px 0px 65px;
 }
 
-#form .line {
+#form .line{
   text-align: center;
   font-size: 20px;
   color: red;
+  padding-bottom: 50px;
 }
 
-#form .icons i {
+#form .icons{
+  background-color: white;
+}
+
+#form .icons i{
   font-size: 20px;
   color: orange;
+}
+
+#form .icons .ihouse p{
+  text-align: center;
+}
+
+#form .icons   span{
+  font-size: 70px;
+  color: red;
+}
+
+.formu .wrapper-formu .inputs{
+  padding-top: 100px;
+}
+
+.formu .inputs .circle{
+  padding: 25px 80px 35px 53px;
+  border-radius: 4rem;
+  border: 1px solid black;
+  margin-bottom: 30px;
+}
+
+.formu .wrapper-message .hidden-2{
+  display: none;
+}
+
+.formu .botton{
+  text-align: start;
+  padding-left: 35px;
+}
+
+.formu .botton .send{
+  padding: 28px 77px;
+  background-color: #FA5254;
+  border: 0;
+  border-radius: 4rem;
+  color: white;
+}
+
+.formu .wrapper-formu{
+  padding-bottom: 100px;
+}
+
+.formu .wrapper-message .hidden-3{
+    display: none;
+    margin-left: 50px;
+  }
+
+/* Tablet */
+@media (min-width: 768px) {
+  .formu .inputs .circle{
+    padding: 25px 10px 35px 53px;
+    border-radius: 4rem;
+    border: 1px solid black;
+    margin-bottom: 30px;
+    margin-right: 15px;
+  }
+
+  .formu .wrapper-message .hidden-1{
+    display: none;
+  }
+
+  #form .icons{
+    padding-bottom: 150px;
+  }
+
+  .formu .wrapper-message .hidden-2{
+    display: block;
+    margin-left: 50px;
+  }
+}
+
+@media (min-width: 992px) {
+  #form .icons{
+    margin: 0 80px;
+  }
+
+  #form .icons .ihouse p{
+    max-width: 218px;
+  }
+
+  .formu .wrapper-formu{
+    margin: 25px 100px;
+  }
+}
+
+@media (min-width: 1200px) {
+  #form .icons{
+    margin: 0;
+  }
+
+  #form .icons .ihouse p{
+    padding: 0 65px;
+    max-width: 348px;
+  }
+
+  .formu .inputs .circle{
+    padding: 15px 95px 35px 53px;
+  }
+
+  .formu .wrapper-message .hidden-2{
+    display: none;
+    margin-left: 50px;
+  }
+
+  .formu .wrapper-message .hidden-3{
+    display: block;
+    margin-left: 50px;
+    margin-left: 0;
+  }
+
+  .formu .botton{
+    padding-left: 0;
+  }
+
+  .formu .inputs{
+    padding-bottom: 90px;
+  }
 }
