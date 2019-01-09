@@ -7,6 +7,8 @@
 
   <body>
     <?php include('inc/header.inc'); ?>
+    <?php include('inc/homepage/homepage-hero.inc'); ?>
+    <?php include('inc/homepage/homepage-welcome.inc'); ?>
 
     <div class="partners container-fluid">
       <h1>PARTNERS</h1>
