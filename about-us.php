@@ -9,6 +9,7 @@
     <?php include('inc/header.inc'); ?>
 
     <?php include('inc/about-us/section-4.inc'); ?>
+    <?php include('inc/about-us/section-5.inc'); ?>
 
     <?php include('inc/footer.inc'); ?>
   </body>
