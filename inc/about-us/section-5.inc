@@ -1,17 +1,19 @@
-<div class="container-fluid">
-  <div class="row">
+<div id="our-programs">
+  <div class="container">
+    <div class="row">
 
-    <div class="col">
+      <div class="col">
     
-    </div>
+      </div>
 
-    <div class="col">
+      <div class="col">
     
-    </div>
+      </div>
 
-    <div class="col">
+      <div class="col">
     
-    </div>
+      </div>
 
+    </div>
   </div>
 </div>
