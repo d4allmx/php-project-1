@@ -179,3 +179,136 @@
   color: white;
   border: none;
 }
+#latest-news {
+  background-image: url('../../../img/background1.jpg');
+  height: auto;
+  padding-bottom: 45px;
+}
+#latest-news h1 {
+  text-align: center;
+  letter-spacing: 11.52px;
+  color: white;
+  font-size: 32px;
+  padding-top: 125px;
+}
+#latest-news .row {
+  padding: 65px;
+}
+#latest-news a {
+  font-size: 20px;
+  color: #ffffff;
+}
+#latest-news .inner img {
+  margin-bottom: 40px;
+}
+#latest-news .inner p {
+  margin-top: 22px;
+  font-size: 15px;
+  color: #807f84;
+}
+#latest-news .line {
+  text-align: center;
+  height: 3px;
+  width: 79px;
+  background-color: #ff7c00;
+  margin-top: 15px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#fresh-news {
+  background-image: url('../../../img/background2.jpg');
+  height: auto;
+}
+#fresh-news h1 {
+  text-align: center;
+  color: #ffffff;
+  font-size: 32px;
+  line-height: 32px;
+  font-weight: 500;
+  letter-spacing: 11.52px;
+  padding-top: 110px;
+}
+#fresh-news .line {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 3px;
+  width: 79px;
+  background-color: white;
+  margin-top: 15px;
+}
+#fresh-news .date {
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 400;
+  letter-spacing: 0;
+  text-transform: none;
+  color: white;
+}
+#fresh-news .title {
+  font-size: 20px;
+  line-height: 22px;
+  font-weight: 400;
+  text-transform: none;
+  color: white;
+}
+#fresh-news .text {
+  font-size: 15px;
+  color: white;
+  margin-top: 15px;
+  padding-right: 20px;
+}
+#fresh-news .row {
+  padding: 100px;
+}
+#fresh-news .btn {
+  font-size: 14px;
+  color: #2c2a32;
+  text-align: center;
+  border-radius: 50px;
+  background-color: white;
+  height: 80px;
+  width: 160px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#learn-secrets {
+  background-image: url('../../../img/background3.jpg');
+  height: auto;
+  padding-bottom: 200px;
+}
+#learn-secrets .title1 {
+  text-align: center;
+  color: white;
+  font-size: 32px;
+  line-height: 32px;
+  font-weight: 500;
+  letter-spacing: 6.4px;
+  margin-top: 74px;
+  padding-top: 280px;
+}
+#learn-secrets .body {
+  font-size: 10px;
+  line-height: 10px;
+  letter-spacing: 3.6px;
+  text-transform: uppercase;
+  margin-top: 96px;
+  color: white;
+  text-align: center;
+}
+#learn-secrets .btn {
+  margin-top: 86px;
+}
+#training-packages {
+  background-image: url('../../../img/background2.jpg');
+  height: auto;
+}
+#training-packages .title {
+  text-align: center;
+  font-size: 32px;
+  line-height: 32px;
+  font-weight: 500;
+  letter-spacing: 11.52px;
+}
