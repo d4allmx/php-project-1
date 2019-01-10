@@ -33,6 +33,7 @@
          <div class="col-12">
           <div class="text-left cta">
             <a href="#">Read More</a>
+          </div>
          </div>
         </div>
       </div>
