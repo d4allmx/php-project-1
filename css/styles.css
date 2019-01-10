@@ -515,7 +515,7 @@ hr {
 .partners-cta input:hover {
   background: black;
   color: white;
-  border: none;
+  border-color: black;
 }
 #welcome-block {
   background-color: #ff5b50;
@@ -728,7 +728,7 @@ hr {
 .exercises-cta input:hover {
   background: white;
   color: #FA5858;
-  border: none;
+  border-color: white;
 }
 @media (min-width: 992px) {
   .exercises .text {
@@ -775,7 +775,6 @@ hr {
 .follow-us input:hover {
   background: black;
   color: white;
-  border: none;
   border-color: black;
 }
 @media (min-width: 992px) {
