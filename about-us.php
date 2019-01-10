@@ -11,6 +11,7 @@
     <?php include('inc/about-us/section-3.inc'); ?>
     <?php include('inc/about-us/section-4.inc'); ?>
     <?php include('inc/about-us/section-5.inc'); ?>
+    <?php include('inc/about-us/section-6.inc'); ?>
     <?php include('inc/footer.inc'); ?>
   </body>
 </html>
