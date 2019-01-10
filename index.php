@@ -12,6 +12,7 @@
     <?php include('inc/header.inc'); ?>
     <?php include('inc/homepage/homepage-hero.inc'); ?>
     <?php include('inc/homepage/homepage-welcome.inc'); ?>
+    <?php include('inc/homepage/homepage-womens.inc'); ?>
     <?php include('inc/homepage/homepage-partners.inc'); ?>
     <?php include('inc/homepage/homepage-exercises.inc'); ?>
     <?php include('inc/homepage/homepage-follow-us.inc'); ?>
