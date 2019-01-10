@@ -1,6 +1,6 @@
 <div id="our-programs">
   <div class="container">
-    <div class="contenedor">
+    <div class="box">
       <div class="row">
 
         <div class="col-12">
