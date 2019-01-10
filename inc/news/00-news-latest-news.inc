@@ -12,7 +12,7 @@
     <div class="col-sm-4">
       <div class="inner">
         <?php
-        mysqli_data_seek ($registros,1);
+        mysqli_data_seek ($registros,0);
         $row = mysqli_fetch_array($registros);
         printf('<img src="uploads');
         printf($row[2]);
@@ -29,7 +29,7 @@
     <div class="col-sm-4">
       <div class="inner">
         <?php
-          mysqli_data_seek ($registros,2);
+          mysqli_data_seek ($registros,1);
           $row = mysqli_fetch_array($registros);
           printf('<img src="uploads');
           printf($row[2]);
@@ -46,7 +46,7 @@
     <div class="col-sm-4">
       <div class="inner">
         <?php
-          mysqli_data_seek ($registros,3);
+          mysqli_data_seek ($registros,2);
           $row = mysqli_fetch_array($registros);
           printf('<img src="uploads');
           printf($row[2]);
