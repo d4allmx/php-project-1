@@ -604,6 +604,14 @@
   text-align: center;
   margin-bottom: 35px;
 }
+.partners hr {
+  width: 80px;
+  height: 2px;
+  background-color: #FFFFFF;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 70px;
+}
 .partners .col {
   padding: 15px ;
 }
@@ -812,6 +820,15 @@
   text-align: center;
   margin: 65px 0;
 }
+.exercises hr {
+  width: 80px;
+  height: 2px;
+  background-color: #ff5b50;
+  border-color: #ff5b50;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 70px;
+}
 .exercises h4 {
   margin: 30px 0;
 }
@@ -857,8 +874,13 @@
 .follow-us .title h1 {
   padding-bottom: 0;
 }
-.follow-us .title p {
-  padding-bottom: 50px;
+.follow-us .title hr {
+  width: 80px;
+  height: 2px;
+  background-color: #FFFFFF;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 70px;
 }
 .follow-us .wrapper-social .space-social {
   padding-bottom: 5px;
