@@ -1272,9 +1272,10 @@
 }
 .section-3 h1 {
   margin-top: 100px;
+  font-size: 30px;
 }
 .section-3 p {
-  margin-top: 50px;
+  margin-top: 50px 20px;
 }
 .section-3 .cta-3 {
   text-align: center;
