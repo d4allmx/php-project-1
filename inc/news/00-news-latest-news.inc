@@ -1,5 +1,5 @@
 <?php
-    $conexion=mysqli_connect("localhost","root","","paper")
+    $conexion=mysqli_connect("localhost","root","admin","paper")
     or die ("no se pudo conectar");
     $registros=mysqli_query($conexion,"select * from news order by upload desc")
     or die ("error en la consulta: ".mysqli_error($conexion));
