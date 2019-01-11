@@ -4,7 +4,7 @@
       <div class="row">
 
         <div class="col-12">
-          <div class="title text-center">
+          <div class="title title-1 text-center">
             <h1>OUR BENEFITS</h1>
           </div>
           <div class="line"></div>
