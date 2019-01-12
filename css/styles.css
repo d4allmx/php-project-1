@@ -1343,17 +1343,24 @@
   width: 100%;
   color: white;
 }
-#our-benefits .title {
+#our-benefits .box {
+  padding: 45px;
+}
+#our-benefits .box .title {
   padding-top: 70px;
   padding-bottom: 20px;
+  text-align: center;
 }
-#our-benefits .line {
-  width: 110px;
-  height: 4px;
+#our-benefits .box .title-1 {
+  padding: 18px;
+}
+#our-benefits .box .line {
+  width: 80px;
+  height: 3px;
   background-color: #fff;
   margin: auto;
 }
-#our-benefits .body {
+#our-benefits .box .body {
   padding-bottom: 30px;
 }
 #our-benefits .cta {
@@ -1365,7 +1372,7 @@
   padding-right: 35px;
   padding-top: 20px;
   padding-bottom: 20px;
-  font-family: helvetica;
+  font-family: arial;
   font-weight: 50;
   font-size: 14px;
   font-style: italic;
@@ -1386,16 +1393,17 @@
   color: white;
 }
 #our-programs .box {
-  padding: 20px;
+  padding: 40px;
 }
 #our-programs .box .line {
-  width: 110px;
-  height: 4px;
+  width: 80px;
+  height: 3px;
   background-color: #e64809;
   margin-right: auto;
 }
 #our-programs .box .title h1 {
   padding-top: 100px;
+  padding-right: 590px;
 }
 #our-programs .box .title h3 {
   padding-top: 80px;
@@ -1413,7 +1421,7 @@
   padding-right: 35px;
   padding-top: 20px;
   padding-bottom: 20px;
-  font-family: helvetica;
+  font-family: arial;
   font-weight: 50;
   font-size: 14px;
   font-style: italic;
@@ -1438,16 +1446,19 @@
   width: 100%;
   color: white;
 }
-#what-clients-say .line {
-  width: 110px;
-  height: 4px;
+#what-clients-say .box {
+  padding: 45px;
+}
+#what-clients-say .box .line {
+  width: 78px;
+  height: 3px;
   background-color: #fff;
   margin: auto;
   margin-bottom: 100px;
 }
-#what-clients-say .title {
+#what-clients-say .box .title {
   padding-top: 80px;
 }
-#what-clients-say .testimonials {
+#what-clients-say .box .testimonials {
   margin-bottom: 100px;
 }
