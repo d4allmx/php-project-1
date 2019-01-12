@@ -2,7 +2,7 @@
   <div class="row center-block">
     <h1>give us good news</h1>
   </div>
-  <form action="news-reg.php" method="POST" enctype="multipart/form-data">
+  <form action="/inc/news/news-register.inc.php" method="POST" enctype="multipart/form-data">
     <p>Write a title:</p>
     <input type="text" name="title" id=""><br>
     <p>Tell us more about that:</p>
