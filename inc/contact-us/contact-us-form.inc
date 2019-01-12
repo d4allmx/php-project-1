@@ -3,9 +3,7 @@
     <div class="title">
       <h1>CONTACT US</h1>
     </div>
-    <div class="line">
-      -------
-    </div>
+    <hr>
     <div class="icons text-center">
       <div class="ihouse col-sm-4">
         <span class="icon house"></span>
