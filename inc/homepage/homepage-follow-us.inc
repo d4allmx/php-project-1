@@ -1,11 +1,11 @@
 <div class="follow-us container-fluid" align="centered">
   <div class="title text-center">
       <h1> FOLLOW US</h1>
-      <p>________</p>
+      <hr>
   </div>
   <div class="social row">
     <div class="wrapper-social text-center">
-      <div class="col-sm-2 hover">
+      <div class="col-sm-2 col-offset-1 hover">
         <h6 class="insta">INSTAGRAM</h6>
       </div>
       <div class="col-sm-2 hover">
@@ -14,10 +14,10 @@
       <div class="col-sm-2 hover">
         <h6 class="tw">TWITTER</h6>
       </div>
-      <div class="col-sm-2 col-md-3 hover">
+      <div class="col-sm-2 hover">
         <h6 class="google">GOOGLE PLUS</h6>
       </div>
-      <div class="col-sm-12 col-md-3 hover">
+      <div class="col-sm-2 hover">
         <h6 class="pint">PINTEREST</h6>
       </div>
     </div>
